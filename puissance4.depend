@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1460447176 source:c:\users\animehq\desktop\puissance4\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<time.h>
+	<Windows.h>
+
+1461233123 source:c:\users\animehq\desktop\puissance4cons\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<time.h>
+	<Windows.h>
+
